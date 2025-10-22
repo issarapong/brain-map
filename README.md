@@ -66,14 +66,25 @@
 
 ---
 
-## 🧭 Brain Balance Graph (Conceptual)
+## 🧠 Brain Balance Graph
 
-Left Hemisphere (Logic) ████████░░░ (Strong)
-Right Hemisphere (Intuition) ██████████ (Very Strong)
-Prefrontal Cortex (Decision) █████████░ (High)
-Parietal Cortex (System) ██████████ (High)
-Temporal (Emotion) ██████░░░░ (Moderate)
+| สมองส่วน (Brain Region) | หน้าที่หลัก | ระดับการทำงาน | แถบแสดงสมรรถนะ |
+|---------------------------|--------------|----------------|-----------------|
+| 🧩 **Left Hemisphere (Logic)** | การคิดเชิงตรรกะ / วิเคราะห์ | Strong | ████████░░░ |
+| 🎨 **Right Hemisphere (Intuition)** | จินตนาการ / ภาพรวม / ความคิดสร้างสรรค์ | Very Strong | ██████████ |
+| 🧭 **Prefrontal Cortex (Decision)** | การตัดสินใจ / การวางแผน / การควบคุมอารมณ์ | High | █████████░ |
+| ⚙️ **Parietal Cortex (System)** | การมองระบบ / การเชื่อมโยงเชิงพื้นที่ | High | ██████████ |
+| 💓 **Temporal Lobe (Emotion)** | ความเข้าใจอารมณ์ / การฟัง / ความทรงจำ | Moderate | ██████░░░░ |
 
+---
+
+### 🔍 สรุปแนวโน้ม
+- **ซีกขวา (Intuition)** เด่น → ชอบคิดเชิงภาพรวมและระบบที่ซับซ้อน  
+- **Prefrontal–Parietal network** แข็งแรง → ตัดสินใจแม่นและเข้าใจระบบเชิงโครงสร้าง  
+- **Emotion (Temporal)** อยู่ในระดับพอดี → รู้สึกได้แต่ไม่ถูกอารมณ์นำ  
+
+> 🧠 ผลลัพธ์โดยรวม: “Hybrid Systemic Brain” — เหมาะกับ DevOps / Infra / Business Strategy  
+> คิดเป็นระบบได้ดี เห็นภาพใหญ่ และเชื่อมโยงเหตุผลกับอารมณ์อย่างสมดุล
 
 
 ---
