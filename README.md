@@ -1,4 +1,4 @@
-# 🧠 Brain Type Analysis — DevOps / Infra / Business / History Thinker
+# 🧠 Brain Type Analysis — DevOps / Infrastructure / Business / History Thinker
 
 ## Overview
 บุคลิกการคิดของคุณสะท้อน “การทำงานร่วมกันของสมองซีกซ้าย–ขวา”  
