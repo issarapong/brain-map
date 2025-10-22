@@ -4,6 +4,8 @@
 บุคลิกการคิดของคุณสะท้อน “การทำงานร่วมกันของสมองซีกซ้าย–ขวา”  
 และสมองส่วน **Parietal + Prefrontal Cortex** ที่เด่นมาก  
 ทำให้คุณมีความสามารถทั้งด้าน **ตรรกะ, การวางแผน, การมองภาพใหญ่, และการเชื่อมโยงเชิงระบบ**
+
+
 ![my brain map](https://raw.githubusercontent.com/issarapong/brain-map/main/my-brian-map.png)
 
 ---
